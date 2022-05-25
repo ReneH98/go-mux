@@ -1,7 +1,6 @@
 package main_test
  
 import (
-     "os"
      "testing"
      "log"
      "github.com/ReneH98/go-mux"
